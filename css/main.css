@@ -2136,7 +2136,8 @@ header .logo a {
 	text-align: center;
 }
 
-#subscribe #mc-form input:not(type="submit"){
+#subscribe #mc-form input{
+	
 	width: 100%;
 	text-align: left;
 	color: rgba(255, 255, 255, 0.7);
