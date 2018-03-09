@@ -250,7 +250,10 @@
 	$('#mc-form').ajaxChimp({
 
 		language: 'es',
-	   url: mailChimpURL
+	   url: mailChimpURL,
+	   error: function(resp,text){
+	   	window.console.log('mc error' + text)
+	   }
 
 	});
 
