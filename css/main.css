@@ -1,8 +1,5 @@
 /* =================================================================== 
- *
- *  Elevate v1.0 Main Stylesheet
- *  url: www.styleshout.com
- *  07-04-2016
+ 
  *  ------------------------------------------------------------------
  *
  *  TOC:
@@ -2579,4 +2576,12 @@ footer a:active {
 #slides_caro{
         height: 300px;
     }
+}
+
+.carousel-inner{
+	background: white;
+}
+
+.carousel-inner h2{
+	text-align: center
 }

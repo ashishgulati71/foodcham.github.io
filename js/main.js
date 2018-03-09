@@ -245,7 +245,7 @@
 	* ------------------------------------------------------ */
 
 	// Example MailChimp url: http://xxx.xxx.list-manage.com/subscribe/post?u=xxx&id=xxx
-	var mailChimpURL = 'http://facebook.us8.list-manage.com/subscribe/post?u=cdb7b577e41181934ed6a6a44&amp;id=e65110b38d'
+	var mailChimpURL = 'http://facebook.us8.list-manage.com/subscribe/post?u=07164b2950168a5c0b82399f9&amp;id=f12ecca371'
 
 	$('#mc-form').ajaxChimp({
 
@@ -384,7 +384,7 @@ function carouselScreenShots(){
      function anim(li,currentLiIndex){
 //         console.log(
              var temp=li[0].children[0].getAttribute('src');
-         console.log(temp);
+         // console.log(temp);
         $("#slides_caro ul:first-child").fadeTo("slow",0);
         li[0].children[0].setAttribute('src',li[currentLiIndex].children[0].getAttribute('src'));
         $("#slides_caro ul:first-child").fadeTo("slow",1);
