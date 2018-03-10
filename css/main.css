@@ -734,7 +734,7 @@ input[type="button"] {
 	color: #001835;
 	text-decoration: none;
 	cursor: pointer;
-	text-align: center;
+	text-align: center!important;
 	white-space: nowrap;
 	border: none;
 	-moz-transition: all 0.3s ease-in-out;
@@ -742,6 +742,7 @@ input[type="button"] {
 	-webkit-transition: all 0.3s ease-in-out;
 	-ms-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
+
 }
 
 .button:hover,
@@ -2579,10 +2580,18 @@ footer a:active {
     }
 }
 
-.carousel-inner{
-	background: white;
-}
-
 .carousel-inner h2{
 	text-align: center
+}
+
+#tie-ups-carousel{
+	    padding-top: 12rem;
+    padding-bottom: 9.6rem;
+    	background: white;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
 }
