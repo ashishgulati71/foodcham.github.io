@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.eb861454.css",
   "main.css.map": "static/css/main.eb861454.css.map",
-  "main.js": "static/js/main.28b97162.js",
-  "main.js.map": "static/js/main.28b97162.js.map",
+  "main.js": "static/js/main.3c72969f.js",
+  "main.js.map": "static/js/main.3c72969f.js.map",
   "static\\media\\404.png": "static/media/404.2872c57e.png",
   "static\\media\\5reasons.png": "static/media/5reasons.34824f47.png",
   "static\\media\\ElegantIcons.eot": "static/media/ElegantIcons.d72ad3f7.eot",
@@ -13,6 +13,7 @@
   "static\\media\\Home-mockup.png": "static/media/Home-mockup.16969e4f.png",
   "static\\media\\a.jpg": "static/media/a.8d568f6f.jpg",
   "static\\media\\b.jpg": "static/media/b.99acbc43.jpg",
+  "static\\media\\blog_waiters.jpg": "static/media/blog_waiters.3078f353.jpg",
   "static\\media\\c.jpg": "static/media/c.9f8232d9.jpg",
   "static\\media\\fc-about.png": "static/media/fc-about.615c07cd.png",
   "static\\media\\fc-client-sb.png": "static/media/fc-client-sb.de99be9e.png",
